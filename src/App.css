@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+}
+
+section{
+  border: 2px solid green;
+  height: 650px;
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+
+}
+
+.card1{
+  /* border: 2px solid red; */
+  height: 300px;
+  width: 300px;
+  background-color: black;
+  border-radius: 8px;
+}
+
+.card2{
+  /* border: 2px solid red; */
+  height: 70px;
+  width: 300px;
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
